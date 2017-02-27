@@ -1,0 +1,52 @@
+  body {
+  background-color: rgb(196, 226, 246);
+}
+
+.header {
+  text-align: center;
+  background-color: rgb(126,192,229);
+  margin: 30px 20px 20px;
+}
+
+.row1 {
+  margin-left: 0px 20px;
+}
+
+.left-box {
+  text-align: justify;
+  background-color: rgb(9, 30, 45);
+  color: white;
+  align-items: center;
+  margin: 10px auto;
+}
+.img {
+  position: relative;
+  left: 20px;
+}
+
+.right-box {
+    text-align: justify;
+    margin: 10px auto;
+    background-color: rgb(9,30,45);
+}
+
+.footer {
+  text-align: center;
+  background-color: rgb(126,192,229);
+  margin: 20px;
+}
+
+.container-fluid, .left-box, .right-box, .footer, .experiences-box, .studies-box, .exp {
+  border: solid grey 2px;
+}
+
+.content {
+  margin: 0px 20px 0px 20px;
+    background-color: rgb(126,192,229);
+}
+
+.experiences-box, .studies-box {
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: white;
+}
